@@ -1,3 +1,6 @@
+-- Created:     28.02.2021
+-- Modified:    21.09.2023
+
 CREATE DATABASE IF NOT EXISTS ARK;
 USE ARK;
 SET SQL_SAFE_UPDATES = 0; -- Unsafe
