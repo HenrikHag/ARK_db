@@ -1,6 +1,6 @@
 ### ARK database
 
-This project contains an SQL file for a consept relational database to store data for the game `ARK: Survival Evolved`.  
+This project contains a SQL file for a consept relational database to store data for the game `ARK: Survival Evolved`.  
 
 As the amount of `Dinos`, `Tools` and `Armor` increased there was a need to look up owned items and sort them based on their attributes. Since the data has a lot of relationships, relational databases works well for this task.  
 
